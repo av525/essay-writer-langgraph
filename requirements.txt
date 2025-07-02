@@ -1,0 +1,14 @@
+openai
+langchain
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
+pypdf
+requests
+pandas
+semantic_router
+pinecone
+tavily-python
+langgraph-checkpoint-sqlite
+streamlit
